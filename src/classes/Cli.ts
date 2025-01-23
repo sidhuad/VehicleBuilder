@@ -417,6 +417,9 @@ class Cli {
 
           if (vehicleSelected instanceof Motorbike) {
             vehicleSelected.wheelie();
+          }else{
+            console.log(`Only Motobikes can perform a Wheelie!`);
+            
           }
         }
         else if (answers.action === 'Select or create another vehicle') {
