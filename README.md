@@ -21,6 +21,7 @@
 - [How to Contribute](#how-to-contribute)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Links](#links)
 
 ## Installation
 
@@ -63,4 +64,6 @@ npm run test
 
 ## Questions
 - For Further Questions and Bug reports Please reach out to me at Github [sidhuad](https://github.com/sidhuad) or email me at adarshsidhu83@gmail.com
+- 
+## Links
 - [video demo](https://www.loom.com/share/b0433ff8ba7841da84d7b2be1efb7be4?sid=80e41d35-d81a-4f75-9781-a934571a3972)
