@@ -38,7 +38,7 @@ npm install
 ```
 - Run the Application:
 ```
-npm start
+npm run start
 ```
 
 ## Usage
